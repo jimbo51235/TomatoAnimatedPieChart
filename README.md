@@ -36,7 +36,7 @@ TomatoAnimatedPieChart Framework lets you create a simple 2D pie chart.  Each pi
 <li>radius: It's the radius of the pie chart.</li>
 <li>pieThickness: It's the thickness (stroke length) of the pie.</li>
 <li>innerBorder: It's the thickness of the translucent ring around the hole</li>
-<li>outerBorder: It's the outer border thickness of the pie chart.</li>
+<li>outerBorder: It's the thickness of the outer border of the pie chart.</li>
 <li>innerAlpha: It's the opacity level of the translucent ring around the hole.  If you set it 1, this ring will become completely white.</li>
 <li>outerBorderColor: It's the color of the outer border.</li>
 <li>rectWidth: It's the width of the color rectangle in the title container.</li>
